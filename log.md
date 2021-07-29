@@ -19,3 +19,10 @@
 **Link to work**: [https://codepen.io/navimarcial/full/qBmxPdz]
 
 **Thoughts:** It took a  bit of an unconventional approach to make it work. Particularly on the navbar section, I had to use the :nth-child pseudo-selector to position the list items. But I'm happy that it works! I'll soon implement the hamburger menu when resizing the screen smaller. 
+
+### Day 4: July 29, 2021 
+
+**Today's Progress**: -
+**Link to work**: -
+
+**Thoughts:** -
