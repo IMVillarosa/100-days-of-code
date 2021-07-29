@@ -22,7 +22,8 @@
 
 ### Day 4: July 29, 2021 
 
-**Today's Progress**: -
-**Link to work**: -
+**Today's Progress**: Stats preview card component recreate / redesign (Still in progress)
 
-**Thoughts:** -
+**Link to work**: [https://codepen.io/navimarcial/full/qBmogPG]
+
+**Thoughts:** I spent most of my time today watching Kevin Powell's explanation about CSS units to better implement responsiveness to my projects. I also took the time to create a workflow setup to prevent re-typing HTML and CSS boilerplates. Lastly, I started to take on the Frontend Mentor challenge and recreate a Stats preview card component and after I complete the card component challenge, I will try to redesign it using my color scheme preference.
