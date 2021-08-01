@@ -42,3 +42,10 @@
 
 **Thoughts:** It took 3 days to achieve the layout and responsiveness to different screen size. I feel like the HTML/CSS structure still needs improvement but it works.
 On this challenge, I made use of Flexbox layout to position the elements easier and used relative CSS units such as em, rem, & percentages.
+
+### Day 7: August 1, 2021
+
+**Today's Progress**: Four card features section (Responsive)
+**Link to work**: [https://imvillarosa.github.io/four-card-feature-section/]
+
+**Thoughts:** I managed to finish this Frontend UI challenge quicker than I expected and honestly, I feel like I could have achieved the design on this challenge without using absolute positioning in CSS. Nevertheless, I'm satisfied with the outcome and how I have structured my HTML and CSS by following a Mobile First design. 
