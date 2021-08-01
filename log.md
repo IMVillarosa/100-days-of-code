@@ -30,15 +30,15 @@
 
 ### Day 5: July 30, 2021
 
-** Today's Progress**: Stats preview card component recreate / redesign (In progress, a bit responsive)
-** Link to work**: [https://cdpn.io/navimarcial/debug/qBmogPG/WPALYRdzaLJk]
+**Today's Progress**: Stats preview card component recreate / redesign (In progress, a bit responsive)
+**Link to work**: [https://cdpn.io/navimarcial/debug/qBmogPG/WPALYRdzaLJk]
 
 **Thoughts:** I read more about em units and modified my HTML/CSS structure in order to achieve the exact look of stats preview card component. Instead of adding the image directly on the HTML, I instead used the url() value in CSS as I found it more convenient to style the image. I managed to implement a bit of responsiveness up to a certain screen size and hopefully complete the mobile version tomorrow. 
 
 ### Day 6: July 31, 2021
 
-** Today's Progress**: Stats preview card component (Responsive)
-** Link to work**: [https://cdpn.io/navimarcial/debug/qBmogPG/WPALYRdzaLJk]
+**Today's Progress**: Stats preview card component (Responsive)
+**Link to work**: [https://imvillarosa.github.io/responsive-preview-card-component-ui/]
 
 **Thoughts:** It took 3 days to achieve the layout and responsiveness to different screen size. I feel like the HTML/CSS structure still needs improvement but it works.
 On this challenge, I made use of Flexbox layout to position the elements easier and used relative CSS units such as em, rem, & percentages.
