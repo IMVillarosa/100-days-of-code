@@ -55,3 +55,12 @@ On this challenge, I made use of Flexbox layout to position the elements easier 
 **Link to work**: [https://imvillarosa.github.io/four-card-feature-section/]
 
 **Thoughts:** I managed to finish this Frontend UI challenge quicker than I expected and honestly, I feel like I could have achieved the design on this challenge without using absolute positioning in CSS. Nevertheless, I'm satisfied with the outcome and how I have structured my HTML and CSS by following a Mobile First design. 
+
+### Day 8: August 2, 2021
+
+**Today's Progress**: First progress blog posted and currently working on the boilerplate for my next front end project
+
+**Link to work**: []
+**Link to dev blog**: [https://dev.to/imvillarosa/first-7-days-of-100daysofcode-4ng0]
+
+**Thoughts:** I spent most of today watching lecture videos about selectors and specificity in CSS. It's more of polishing my understanding about it, as I wanted to better implement cleaner structure on my code in the future. Also, I will be doing recaps / review on my progress probably once every week or two in order to keep myself in track. 
