@@ -60,7 +60,8 @@ On this challenge, I made use of Flexbox layout to position the elements easier 
 
 **Today's Progress**: First progress blog posted and currently working on the boilerplate for my next front end project
 
-**Link to work**: []
+**Link to work**: [https://imvillarosa.github.io/fylo-data-storage-component/]
+
 **Link to dev blog**: [https://dev.to/imvillarosa/first-7-days-of-100daysofcode-4ng0]
 
 **Thoughts:** I spent most of today watching lecture videos about selectors and specificity in CSS. It's more of polishing my understanding about it, as I wanted to better implement cleaner structure on my code in the future. Also, I will be doing recaps / review on my progress probably once every week or two in order to keep myself in track. 
