@@ -65,3 +65,11 @@ On this challenge, I made use of Flexbox layout to position the elements easier 
 **Link to dev blog**: [https://dev.to/imvillarosa/first-7-days-of-100daysofcode-4ng0]
 
 **Thoughts:** I spent most of today watching lecture videos about selectors and specificity in CSS. It's more of polishing my understanding about it, as I wanted to better implement cleaner structure on my code in the future. Also, I will be doing recaps / review on my progress probably once every week or two in order to keep myself in track. 
+
+### Day 9: August 3, 2021
+
+**Today's Progress**: SVG text experiment
+
+**Link to work**: [https://codepen.io/navimarcial/pen/XWRBqyd]
+
+**Thoughts:** Today I dabbled on the CSS properties and did some experiments. I also tried SVGs, I haven't really done much on the challenge but I try to keep myself learning by doing code reviews on other people's work as well. 
