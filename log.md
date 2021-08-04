@@ -77,8 +77,8 @@ On this challenge, I made use of Flexbox layout to position the elements easier 
 
 ### Day 10: August 4, 2021
 
-**Today's Progress**: -
+**Today's Progress**: Pottery recreate (In progress, working on last two sections)
 
-**Link to work**: []
+**Link to work**: [https://codepen.io/navimarcial/full/VwbGbYy]
 
-**Thoughts:** -
+**Thoughts:** Flexbox helps create layouts easier and in a short amount of time I almost finished a template that I'm trying to recreate. I tried learning some back-end basics today and introduced myself to relational database. I've learned about how relational database can really be flexible and is ideally for large chunks of information. 
