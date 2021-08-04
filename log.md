@@ -73,3 +73,12 @@ On this challenge, I made use of Flexbox layout to position the elements easier 
 **Link to work**: [https://codepen.io/navimarcial/pen/XWRBqyd]
 
 **Thoughts:** Today I dabbled on the CSS properties and did some experiments. I also tried SVGs, I haven't really done much on the challenge but I try to keep myself learning by doing code reviews on other people's work as well. 
+
+
+### Day 10: August 4, 2021
+
+**Today's Progress**: -
+
+**Link to work**: []
+
+**Thoughts:** -
