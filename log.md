@@ -82,3 +82,11 @@ On this challenge, I made use of Flexbox layout to position the elements easier 
 **Link to work**: [https://codepen.io/navimarcial/full/VwbGbYy]
 
 **Thoughts:** Flexbox helps create layouts easier and in a short amount of time I almost finished a template that I'm trying to recreate. I tried learning some back-end basics today and introduced myself to relational database. I've learned about how relational database can really be flexible and is ideally for large chunks of information. 
+
+### Day 11: August 5, 2021
+
+**Today's Progress**: -
+
+**Link to work**: []
+
+**Thoughts:** -
