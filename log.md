@@ -98,3 +98,11 @@ On this challenge, I made use of Flexbox layout to position the elements easier 
 **Link to SaSS partials test**: [https://codepen.io/navimarcial/full/VwbGbYy]
 
 **Thoughts:** I learned more about SASS like use of functions, mixins, and partials. I wasn't able to touch any projects as I was trying to learn how to change the file path location of my .css / Today I also learned more about relational databases. There's three level of architecture which is the external, conceptual and internal level.
+
+### Day 13: August 8, 2021
+
+**Today's Progress**: Responsive Layout + Combinators
+
+**Thoughts:** Today I learned CSS selectors and one thing I tried to implement is the combinator to position the three column-layout instead of using the Gap property. 
+
+Kevin Powell's Free responsive layout course helps me improve my use of properties and semantic structures on my projects. This video is a challenge from KP's course I've been working on today.
