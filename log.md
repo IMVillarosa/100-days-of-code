@@ -106,3 +106,14 @@ On this challenge, I made use of Flexbox layout to position the elements easier 
 **Thoughts:** Today I learned CSS selectors and one thing I tried to implement is the combinator to position the three column-layout instead of using the Gap property. 
 
 Kevin Powell's Free responsive layout course helps me improve my use of properties and semantic structures on my projects. This video is a challenge from KP's course I've been working on today.
+
+### Day 14: August 9, 2021
+
+**Today's Progress**: Pottery Recreate (Added more sections and responsiveness)
+
+**Link to Work**: [https://codepen.io/navimarcial/full/VwbGbYy]
+
+**Thoughts:** I managed to make my project responsive, add more sections and worked on the three column layout on the products section. I have also restructured the CSS and separated the utility classes from the main stylesheet. 
+
+In DBMS, I have learned about the types of Keys and Constraints on relational database. 
+
