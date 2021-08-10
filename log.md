@@ -120,8 +120,10 @@ In DBMS, I have learned about the types of Keys and Constraints on relational da
 
 ### Day 15: August 10, 2021
 
-**Today's Progress**: -
+**Today's Progress**: Pottery Website (Responsive with Flexbox)
 
-**Link to Work**: [-]
+**Link to Work**: [https://codepen.io/navimarcial/full/VwbGbYy]
 
-**Thoughts:** -
+**Thoughts:** I learned about Relational Algebra and operators such as RESTRICT and PROJECT. Some terminologies on DBMS can be quite confusing but doing practicals using SQL can help understanding the concepts better.
+
+I was able to complete all sections on the Pottery website project. For my 15th day, I can say I'm comfortable setting basic layouts using Flexbox and some SASS variables.
