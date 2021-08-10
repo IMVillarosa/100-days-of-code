@@ -117,3 +117,11 @@ Kevin Powell's Free responsive layout course helps me improve my use of properti
 
 In DBMS, I have learned about the types of Keys and Constraints on relational database. 
 
+
+### Day 15: August 10, 2021
+
+**Today's Progress**: -
+
+**Link to Work**: [-]
+
+**Thoughts:** -
